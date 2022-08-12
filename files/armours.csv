@@ -1,0 +1,14 @@
+name,weight,cost,ac
+padded armour,light,5,11+Dex
+leather armour,light,10,11+Dex
+studded leather armour,light,45,12+Dex
+hide,medium,10,12+Dex
+chain shirt,medium,50,13+Dex
+scale mail,medium,50,14+Dex
+breastplate,medium,400,14+Dex
+half-plate,medium,750,15+Dex
+ring mail,heavy,30,14
+chain mail,heavy,75,16
+splint,heavy,200,17
+plate,heavy,1500,18
+shield,shield,10,2

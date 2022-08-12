@@ -1,0 +1,38 @@
+name,value,distance,damage,type,difficulty
+club,1,melee,1d4,bludgeoning,simple
+dagger,2,melee,1d4,piercing,simple
+greatclub,0.02,melee,1d8,bludgeoning,simple
+handaxe,5,melee,1d6,bludgeoning,simple
+javelin,1,melee,1d6,piercing,simple
+light hammer,2,melee,1d4,bludgeoning,simple
+mace,5,melee,1d6,bludgeoning,simple
+quarterstaff,1,melee,1d6,bludgeoning,simple
+sickle,1,melee,1d4,slashing,simple
+spear,1,melee,1d6,piercing,simple
+light crossbow,25,ranged,1d8,piercing,simple
+dart,1,ranged,1d4,piercing,simple
+shortbow,25,ranged,1d6,piercing,simple
+sling,1,ranged,1d4,bludgeoning,simple
+battleaxe,10,melee,1d8,slashing,martial
+flail,10,melee,1d8,bludgeoning,martial
+glaive,20,melee,1d10,slashing,martial
+greataxe,30,melee,1d12,slashing,martial
+greatsword,50,melee,2d6,slashing,martial
+halberd,20,melee,1d10,slashing,martial
+lance,10,melee,1d12,piercing,martial
+longsword,15,melee,1d8,slashing,martial
+maul,10,melee,2d6,bludgeoning,martial
+morningstar,15,melee,1d8,piercing,martial
+pike,5,melee,1d10,piercing,martial
+rapier,15,melee,1d8,piercing,martial
+scimitar,25,melee,1d6,slashing,martial
+shortsword,10,melee,1d6,piercing,martial
+trident,5,melee,1d6,piercing,martial
+war pick,5,melee,1d8,piercing,martial
+warhammer,15,melee,1d8,bludgeoning,martial
+whip,2,melee,1d4,slashing,martial
+blowgun,10,ranged,1,piercing,martial
+hand crossbow,75,ranged,1d6,piercing,martial
+heavy crossbow,50,ranged,1d10,piercing,martial
+longbow,50,ranged,1d8,piercing,martial
+net,1,ranged,None,special,martial

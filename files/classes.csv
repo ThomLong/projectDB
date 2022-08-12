@@ -1,0 +1,13 @@
+name,type,weapon bludgeoning,weaponslashing,weaponpiercing,weaponspecial,hitdice,armourlight,armourmedium,armourheavy,shield
+barbarian,martial,1,1,1,1,1d12,1,1,0,1
+bard,spellcaster,0,1,1,0,1d8,1,0,0,0
+cleric,zealot,1,0,0,0,1d8,1,1,0,1
+druid,zealot,1,0,1,0,1d8,1,1,0,1
+fighter,martial,1,1,1,1,1d10,1,1,1,1
+monk,zealot,1,0,0,1,1d8,0,0,0,0
+paladin,zealot,1,1,1,1,1d10,1,1,1,1
+ranger,martial,1,1,1,1,1d10,1,1,0,1
+rogue,martial,0,1,1,0,1d8,1,0,0,0
+sorcerer,spellcaster,1,1,0,0,1d6,0,0,0,0
+warlock,zealot,0,0,0,0,1d8,1,0,0,0
+wizard,spellcaster,1,1,0,0,1d6,0,0,0,0
